@@ -1,0 +1,12 @@
+
+#maps-for-all-content .event-list-container {
+    flex-grow: 1;
+    background-color: white; 
+    overflow: auto;
+    display: flex;
+    -webkit-overflow-scrolling: touch;
+}
+
+#maps-for-all-content .event-list {
+    width: 100%;
+}
